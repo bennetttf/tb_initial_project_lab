@@ -1,3 +1,6 @@
 I have a Saturn Vue.
 I want a new car.
 Maybe a black one.
+line 1
+line 2
+line 3
